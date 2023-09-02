@@ -1,4 +1,5 @@
-<h1 align="center">Heyyy 👋, I'm Vishnuppriyan PL</h1>
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Heyy!+👋+I'm+Vishnuppriyan!" alt="Typing SVG" /></a>
 <h3 align="center">A 3rd year undergraduate currently pursuing a B.Tech in Computer Science with a Specialisation in Artificial Intelligence and Machine Learning in Vellore Institute of Technology, Chennai</h3>
 <img align="right" alt="Coding" width="290" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=v-technoid&label=Profile%20views&color=0e75b6&style=flat" alt="v-technoid" /> </p>
@@ -31,3 +32,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=v-technoid&show_icons=true&locale=en" alt="v-technoid" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=v-technoid&" alt="v-technoid" /></p>
+<h2>🐍 My Contributions 🐍</h2>
+  <br>
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/v-technoid/v-technoid/output/github-contribution-grid-snake.svg"/>
+
+  
