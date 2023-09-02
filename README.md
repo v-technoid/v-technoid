@@ -12,6 +12,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Amazon Community Builders](https://medium.com/@vishnuppriyan_/amazon-community-builders-971bdf73650f?source=rss-50bc339b64bc------2)
+- [GitKraken](https://medium.com/@vishnuppriyan_/mastering-git-workflow-with-gitkraken-a-comprehensive-guide-e5101377764e?source=rss-50bc339b64bc------2)
+- [Zero to Hero Series: 0️⃣](https://medium.com/@vishnuppriyan_/streamline-your-development-process-with-these-5-cutting-edge-tech-stacks-6214899bd25e?source=rss-50bc339b64bc------2)
+- [Top 5 Chrome Extensions for Web Developers](https://medium.com/@vishnuppriyan_/top-5-chrome-extensions-for-web-developers-ac2d0dbe286d?source=rss-50bc339b64bc------2)
+- [How to get the Domain Information using Python?](https://medium.com/@vishnuppriyan_/how-to-get-the-domain-information-using-python-5505aa1f8e93?source=rss-50bc339b64bc------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
