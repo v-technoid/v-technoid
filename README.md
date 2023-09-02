@@ -1,6 +1,6 @@
 <h1 align="center">Heyyy 👋, I'm Vishnuppriyan PL</h1>
 <h3 align="center">A 3rd year undergraduate currently pursuing a B.Tech in Computer Science with a Specialisation in Artificial Intelligence and Machine Learning in Vellore Institute of Technology, Chennai</h3>
-<img align="right" alt="Coding" width="300" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
+<img align="right" alt="Coding" width="290" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=v-technoid&label=Profile%20views&color=0e75b6&style=flat" alt="v-technoid" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=v-technoid" alt="v-technoid" /></a> </p>
