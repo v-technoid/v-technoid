@@ -1,14 +1,13 @@
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Heyy!+👋+I'm+Vishnuppriyan!" alt="Typing SVG" /></a>
 <h3 align="center">A 3rd year undergraduate currently pursuing a B.Tech in Computer Science with a Specialisation in Artificial Intelligence and Machine Learning in Vellore Institute of Technology, Chennai</h3>
-<img align="right" alt="Coding" width="280" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=v-technoid&label=Profile%20views&color=0e75b6&style=flat" alt="v-technoid" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=v-technoid" alt="v-technoid" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/vishnuppriyan_" target="blank"><img src="https://img.shields.io/twitter/follow/vishnuppriyan_?logo=twitter&style=for-the-badge" alt="vishnuppriyan_" /></a> </p>
 
-- 📫 How to reach me **vishnutechnophile@gmail.com**
+- 📫 How to reach me? 🤔 <br><br> [<img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](vishnutechnophile@gmail.com) [<img src ="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">](vishnuppriyan_)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
