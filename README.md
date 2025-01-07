@@ -2,20 +2,28 @@
 <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Heyy!+👋+I'm+Vishnuppriyan!" alt="Typing SVG" /></a>
 <h3 align="center">A Final year undergraduate currently pursuing a B.Tech in Computer Science with a Specialisation in Artificial Intelligence and Machine Learning in Vellore Institute of Technology, Chennai</h3>
 
-- 📫 How to reach me? 🤔
-<br><br>
-[<img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](https://mail.google.com/mail/?view=cm&fs=1&to=vishnutechnophile@gmail.com) [<img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://linkedin.com/in/vishnuppriyan) [<img src ="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/vishnuppriyan_/) [<img src ="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/vishnuppriyan_)
+ ## 📫 How to reach me? 🤔
+  [<img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](https://mail.google.com/mail/?view=cm&fs=1&to=vishnutechnophile@gmail.com) [<img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://linkedin.com/in/vishnuppriyan) [<img src ="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/vishnuppriyan_/) [<img src ="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/vishnuppriyan_)
 
-- My coding Profiles 💻
-  <br> <br>
- [<img src = "https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white">](https://mail.google.com/mail/?view=cm&fs=1&to=vishnutechnophile@gmail.com) [<img src = "https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black">](https://mail.google.com/mail/?view=cm&fs=1&to=vishnutechnophile@gmail.com)
+ ## My coding Profiles 💻
+  [<img src = "https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white">](https://mail.google.com/mail/?view=cm&fs=1&to=vishnutechnophile@gmail.com) [<img src = "https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black">](https://mail.google.com/mail/?view=cm&fs=1&to=vishnutechnophile@gmail.com)
 [<img src = "https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">](https://mail.google.com/mail/?view=cm&fs=1&to=vishnutechnophile@gmail.com) [<img src = "https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue">](https://mail.google.com/mail/?view=cm&fs=1&to=vishnutechnophile@gmail.com) [<img src = "https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white">](https://mail.google.com/mail/?view=cm&fs=1&to=vishnutechnophile@gmail.com)
 
-- My Blogging Profiles 📖:
-  <br> <br>
+## Leetcode Details:
+
+- ### HeatMap:
+![LeetCode Stats](https://leetcard.jacoblin.cool/vishnuppriyan_?theme=dark&font=Noto%20Serif%20Yezidi&ext=heatmap)
+
+- ### Activity
+![LeetCode Stats](https://leetcard.jacoblin.cool/vishnuppriyan_?theme=dark&font=Noto%20Serif%20Yezidi&ext=activity)
+
+- ### Contests
+![LeetCode Stats](https://leetcard.jacoblin.cool/vishnuppriyan_?theme=dark&font=Noto%20Serif%20Yezidi&ext=contest)
+
+## My Blogging Profiles 📖:
  [<img src = "https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">](https://mail.google.com/mail/?view=cm&fs=1&to=vishnutechnophile@gmail.com) [<img src = "https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white">](https://mail.google.com/mail/?view=cm&fs=1&to=vishnutechnophile@gmail.com) [<img src = "https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white">](https://mail.google.com/mail/?view=cm&fs=1&to=vishnutechnophile@gmail.com)
 
-### Blogs posts
+## Blogs posts 🗒️
 <!-- BLOG-POST-LIST:START -->
 - [Amazon Community Builders](https://medium.com/@vishnuppriyan_/amazon-community-builders-971bdf73650f?source=rss-50bc339b64bc------2)
 - [GitKraken](https://medium.com/@vishnuppriyan_/mastering-git-workflow-with-gitkraken-a-comprehensive-guide-e5101377764e?source=rss-50bc339b64bc------2)
