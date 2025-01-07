@@ -1,11 +1,13 @@
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Heyy!+👋+I'm+Vishnuppriyan!" alt="Typing SVG" /></a>
-<h3 align="center">A Final year undergraduate currently pursuing a B.Tech in Computer Science with a Specialisation in Artificial Intelligence and Machine Learning in Vellore Institute of Technology, Chennai</h3>
+<h3 align="center">A Final year undergraduate currently pursuing a B.Tech in Computer Science with a Specialisation in Artificial Intelligence and Machine Learning at Vellore Institute of Technology, Chennai</h3>
 
 ![](https://komarev.com/ghpvc/?username=v-technoid&abbreviated=true)
 
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=v-technoid" alt="v-technoid" /></a> </p>
+
  ## 📫 How to reach me? 🤔
-  [<img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](https://mail.google.com/mail/?view=cm&fs=1&to=vishnutechnophile@gmail.com) [<img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://linkedin.com/in/vishnuppriyan) [<img src ="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/vishnuppriyan_/) [<img src ="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/vishnuppriyan_) [<img src = "https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white">](https://mail.google.com/mail/?view=cm&fs=1&to=vishnutechnophile@gmail.com) 
+  [<img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](https://mail.google.com/mail/?view=cm&fs=1&to=vishnutechnophile@gmail.com) [<img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://linkedin.com/in/vishnuppriyan) [<img src ="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/vishnuppriyan_/) [<img src ="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/vishnuppriyan_) [<img src = "https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white">](https://mail.google.com/mail/?view=cm&fs=1&to=vishnutechnophile@gmail.com)
 
  ## My coding Profiles 💻
   [<img src = "https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white">](https://mail.google.com/mail/?view=cm&fs=1&to=vishnutechnophile@gmail.com) [<img src = "https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black">](https://mail.google.com/mail/?view=cm&fs=1&to=vishnutechnophile@gmail.com)
@@ -41,7 +43,7 @@
 <a href="https://instagram.com/vishnuppriyan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vishnuppriyan_" height="30" width="40" /></a>
 <a href="https://medium.com/@vishnuppriyan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@vishnuppriyan_" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/v-technoid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="v-technoid" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/vishnuppriyan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vishnuppriyan_" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/vishnuppriyan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vishnuppriyan_" height="30" width="40" /></a> <a href="https://www.codechef.com/users/vishnuppriyan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vishnuppriyan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
