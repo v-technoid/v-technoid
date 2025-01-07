@@ -2,8 +2,10 @@
 <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Heyy!+👋+I'm+Vishnuppriyan!" alt="Typing SVG" /></a>
 <h3 align="center">A Final year undergraduate currently pursuing a B.Tech in Computer Science with a Specialisation in Artificial Intelligence and Machine Learning in Vellore Institute of Technology, Chennai</h3>
 
+![](https://komarev.com/ghpvc/?username=v-technoid&abbreviated=true)
+
  ## 📫 How to reach me? 🤔
-  [<img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](https://mail.google.com/mail/?view=cm&fs=1&to=vishnutechnophile@gmail.com) [<img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://linkedin.com/in/vishnuppriyan) [<img src ="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/vishnuppriyan_/) [<img src ="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/vishnuppriyan_)
+  [<img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](https://mail.google.com/mail/?view=cm&fs=1&to=vishnutechnophile@gmail.com) [<img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://linkedin.com/in/vishnuppriyan) [<img src ="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/vishnuppriyan_/) [<img src ="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/vishnuppriyan_) [<img src = "https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white">](https://mail.google.com/mail/?view=cm&fs=1&to=vishnutechnophile@gmail.com) 
 
  ## My coding Profiles 💻
   [<img src = "https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white">](https://mail.google.com/mail/?view=cm&fs=1&to=vishnutechnophile@gmail.com) [<img src = "https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black">](https://mail.google.com/mail/?view=cm&fs=1&to=vishnutechnophile@gmail.com)
@@ -50,7 +52,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=v-technoid&show_icons=true&locale=en" alt="v-technoid" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=v-technoid&" alt="v-technoid" /></p>
-<br>
 <h2> My Contributions 🌟</h2>
 
 [![Vishnuppriyan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=v-technoid&bg_color=000000&color=ffffff&line=d266f9&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
