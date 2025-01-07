@@ -43,11 +43,10 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=v-technoid&" alt="v-technoid" /></p>
 <br>
+<h2> My Contributions 🌟</h2>
 
-[![Vishnuppriyan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hareesh-r&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<h2>🐍 My Contributions 🐍</h2>
-  <br>
+[![Vishnuppriyan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=v-technoid&bg_color=000000&color=ffffff&line=d266f9&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<br>
 <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/v-technoid/v-technoid/output/github-contribution-grid-snake.svg"/>
 
   
