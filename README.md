@@ -40,11 +40,11 @@
 <h2 align="left">Languages and Tools:</h2>
 
 ### AI 🤖
-[<img src = "https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">](https://www.tensorflow.org/)
+<img src = "https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
 
 ### Mobile Frameworks 📱
 
-[<img src = "https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">](https://flutter.dev/)
+<img src = "https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 
 ### IDE 💻
 
