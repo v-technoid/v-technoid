@@ -43,6 +43,9 @@
 
 <h2 align="left">Languages and Tools:</h2>
 
+### Skills 🔼
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 ### AI 🤖
 <img src = "https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
 
