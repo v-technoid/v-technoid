@@ -1,3 +1,4 @@
+![](VishnuppriyanPL.png)
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Heyy!+👋+I'm+Vishnuppriyan!" alt="Typing SVG" /></a>
 <h3 align="center">A Final year undergraduate currently pursuing a B.Tech in Computer Science with a Specialisation in Artificial Intelligence and Machine Learning at Vellore Institute of Technology, Chennai</h3>
