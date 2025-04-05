@@ -41,7 +41,7 @@
 - [Top 5 Chrome Extensions for Web Developers](https://medium.com/@vishnuppriyan_/top-5-chrome-extensions-for-web-developers-ac2d0dbe286d?source=rss-50bc339b64bc------2)
 <!-- BLOG-POST-LIST:END -->
 
-<h2 align="left">Languages and Tools:</h2>
+<h2 align="left">Languages and Tools 🛠️</h2>
 
 ### Skills 🔼
 
