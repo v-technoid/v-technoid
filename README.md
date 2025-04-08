@@ -5,6 +5,8 @@
 
 ## Internships:
 
+- #### Project Intern - Visteon (Jan 2025 - June 2025)
+
 ![](https://komarev.com/ghpvc/?username=v-technoid&abbreviated=true)
 <img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="Built with Love"/>
 
