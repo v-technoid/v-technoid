@@ -6,6 +6,7 @@
 ## Internships:
 
 - #### Project Intern - Visteon (Jan 2025 - June 2025)
+- #### Technical Content Writer Intern - GeeksforGeeks (June 2023 - June 2024) 
 
 ![](https://komarev.com/ghpvc/?username=v-technoid&abbreviated=true)
 <img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="Built with Love"/>
