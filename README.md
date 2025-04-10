@@ -92,3 +92,8 @@
 [![Vishnuppriyan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=v-technoid&bg_color=000000&color=ffffff&line=d266f9&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br>
 <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/v-technoid/v-technoid/output/github-contribution-grid-snake.svg"/>
+
+<div align="center" style="margin-top: 50px;">
+  <img src="https://komarev.com/ghpvc/?username=v-technoid&abbreviated=true" alt="Profile views"/>
+  <img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="Built with Love"/>
+</div>
