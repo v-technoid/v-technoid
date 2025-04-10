@@ -6,10 +6,7 @@
 ## Internships:
 
 - #### Project Intern - Visteon (Jan 2025 - June 2025)
-- #### Technical Content Writer Intern - GeeksforGeeks (June 2023 - June 2024) 
-
-![](https://komarev.com/ghpvc/?username=v-technoid&abbreviated=true)
-<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="Built with Love"/>
+- #### Technical Content Writer Intern - GeeksforGeeks (June 2023 - June 2024)
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=v-technoid" alt="v-technoid" /></a> </p>
 
