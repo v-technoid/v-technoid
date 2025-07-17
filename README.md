@@ -91,6 +91,10 @@
 
 [![Vishnuppriyan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=v-technoid&bg_color=000000&color=ffffff&line=d266f9&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br>
+
+![Contribution Graph](https://ssr-contributions-svg.vercel.app/_/v-technoid?chart=3dbar&gap=0.6&scale=2&gradient=true&flatten=0&animation=mess&animation_duration=6&animation_loop=true&format=svg&weeks=50&theme=purple&widget_size=large&colors=FF6F61,FF9671,FFC15E,72F2EB,1282A2,FCE2DB,FAD4D8,DBDFFD&dark=true)
+
+
 <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/v-technoid/v-technoid/output/github-contribution-grid-snake.svg"/>
 
 <div align="center" style="margin-top: 50px;">
