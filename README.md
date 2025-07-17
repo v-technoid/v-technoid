@@ -21,7 +21,7 @@
 [<img src = "https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">](https://www.hackerrank.com/profile/vishnuppriyan_) [<img src = "https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue">](https://mail.google.com/mail/?view=cm&fs=1&to=vishnutechnophile@gmail.com) [<img src = "https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white">](https://codeforces.com/profile/vishnuppriyan_) 
 ## Dev Quotes: 💭
 
-<img height="180em" src="https://readme-jokes.vercel.app/api?hideBorder&theme=dark&qColor=%23944bcc&aColor=%23bbdb51"/>
+<img width="600" height="110" src="https://readme-jokes.vercel.app/api?hideBorder&theme=dark&qColor=%23944bcc&aColor=%23bbdb51"/>
 
 ## Leetcode Details:
 
