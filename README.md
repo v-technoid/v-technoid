@@ -39,7 +39,7 @@
 
 ## Blogs posts 🗒️
 <!-- BLOG-POST-LIST:START -->
-- [How to Convert from PDF to PPT using Python?](https://medium.com/@vishnuppriyan_/how-to-convert-from-pdf-to-ppt-using-python-b9c6deb7283f?source=rss-50bc339b64bc------2)
+- [Python for PDF to PowerPoint Conversion: A Comparison of Two Popular Libraries](https://medium.com/@vishnuppriyan_/how-to-convert-from-pdf-to-ppt-using-python-b9c6deb7283f?source=rss-50bc339b64bc------2)
 - [Amazon Community Builders](https://medium.com/@vishnuppriyan_/amazon-community-builders-971bdf73650f?source=rss-50bc339b64bc------2)
 - [GitKraken](https://medium.com/@vishnuppriyan_/mastering-git-workflow-with-gitkraken-a-comprehensive-guide-e5101377764e?source=rss-50bc339b64bc------2)
 - [Zero to Hero Series: 0️⃣](https://medium.com/@vishnuppriyan_/streamline-your-development-process-with-these-5-cutting-edge-tech-stacks-6214899bd25e?source=rss-50bc339b64bc------2)
